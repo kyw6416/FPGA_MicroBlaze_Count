@@ -1,0 +1,995 @@
+TRACE::2022-10-19.18:36:25::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:25::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:25::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Do not have an existing db opened. 
+TRACE::2022-10-19.18:36:29::SCWPlatform::Opened new HwDB with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2022-10-19.18:36:29::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper"
+		}]
+}
+TRACE::2022-10-19.18:36:29::SCWPlatform::Boot application domains not present, creating them
+TRACE::2022-10-19.18:36:29::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2022-10-19.18:36:29::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper"
+		}]
+}
+TRACE::2022-10-19.18:36:29::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper"
+		}]
+}
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:29::SCWDomain::checking for install qemu data   : 
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:29::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:29::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:29::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2022-10-19.18:36:29::SCWMssOS::No sw design opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::mss does not exists at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::Creating sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::Adding the swdes entry, created swdb D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::updating the scw layer changes to swdes at   D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::Writing mss at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:29::SCWMssOS::Completed writing the mss file at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-10-19.18:36:29::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2022-10-19.18:36:29::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2022-10-19.18:36:29::SCWMssOS::Completed writing the mss file at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-10-19.18:36:29::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Saving the mss changes D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Running validate of swdbs.
+KEYINFO::2022-10-19.18:36:33::SCWMssOS::Could not open the swdb for D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+KEYINFO::2022-10-19.18:36:33::SCWMssOS::Could not open the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss is not found
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Cleared the swdb table entry
+TRACE::2022-10-19.18:36:33::SCWMssOS::Adding the swdes entry, mss present, able to open swdb D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2022-10-19.18:36:33::SCWMssOS::Writing the mss file completed D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Commit changes completed.
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"8a2896293011d781a2cf3e738a1907db",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-10-19.18:36:33::SCWPlatform::Started generating the artifacts platform design_count_wrapper
+TRACE::2022-10-19.18:36:33::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-10-19.18:36:33::SCWPlatform::Started generating the artifacts for system configuration design_count_wrapper
+LOG::2022-10-19.18:36:33::SCWSystem::Checking the domain domain_microblaze_0
+LOG::2022-10-19.18:36:33::SCWSystem::Not a boot domain 
+LOG::2022-10-19.18:36:33::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2022-10-19.18:36:33::SCWDomain::Generating domain artifcats
+TRACE::2022-10-19.18:36:33::SCWMssOS::Generating standalone artifcats
+TRACE::2022-10-19.18:36:33::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Completed writing the mss file at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-10-19.18:36:33::SCWMssOS::Mss edits present, copying mssfile into export location D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-10-19.18:36:33::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-10-19.18:36:33::SCWDomain::Skipping the build for domain :  domain_microblaze_0
+TRACE::2022-10-19.18:36:33::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-10-19.18:36:33::SCWMssOS::Copying to export directory.
+TRACE::2022-10-19.18:36:33::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-10-19.18:36:33::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-10-19.18:36:33::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2022-10-19.18:36:33::SCWSystem::Completed Processing the sysconfig design_count_wrapper
+LOG::2022-10-19.18:36:33::SCWPlatform::Completed generating the artifacts for system configuration design_count_wrapper
+TRACE::2022-10-19.18:36:33::SCWPlatform::Started preparing the platform 
+TRACE::2022-10-19.18:36:33::SCWSystem::Writing the bif file for system config design_count_wrapper
+TRACE::2022-10-19.18:36:33::SCWSystem::dir created 
+TRACE::2022-10-19.18:36:33::SCWSystem::Writing the bif 
+TRACE::2022-10-19.18:36:33::SCWPlatform::Started writing the spfm file 
+TRACE::2022-10-19.18:36:33::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-10-19.18:36:33::SCWPlatform::Completed generating the platform
+TRACE::2022-10-19.18:36:33::SCWMssOS::Saving the mss changes D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Commit changes completed.
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"8a2896293011d781a2cf3e738a1907db",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-10-19.18:36:33::SCWPlatform::updated the xpfm file.
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Saving the mss changes D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Commit changes completed.
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"8a2896293011d781a2cf3e738a1907db",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Saving the mss changes D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-19.18:36:33::SCWMssOS::Commit changes completed.
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:33::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:33::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:33::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:33::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:33::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"8a2896293011d781a2cf3e738a1907db",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2022-10-19.18:36:34::SCWPlatform::Started generating the artifacts platform design_count_wrapper
+TRACE::2022-10-19.18:36:34::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-10-19.18:36:34::SCWPlatform::Started generating the artifacts for system configuration design_count_wrapper
+LOG::2022-10-19.18:36:34::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2022-10-19.18:36:34::SCWDomain::Generating domain artifcats
+TRACE::2022-10-19.18:36:34::SCWMssOS::Generating standalone artifcats
+TRACE::2022-10-19.18:36:34::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:34::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:34::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::Completed writing the mss file at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-10-19.18:36:34::SCWMssOS::Mss edits present, copying mssfile into export location D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-10-19.18:36:34::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-10-19.18:36:34::SCWDomain::Building the domain as part of full build :  domain_microblaze_0
+TRACE::2022-10-19.18:36:34::SCWMssOS::skipping the bsp build ... 
+TRACE::2022-10-19.18:36:34::SCWMssOS::Copying to export directory.
+TRACE::2022-10-19.18:36:34::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-10-19.18:36:34::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-10-19.18:36:34::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2022-10-19.18:36:34::SCWSystem::Completed Processing the sysconfig design_count_wrapper
+LOG::2022-10-19.18:36:34::SCWPlatform::Completed generating the artifacts for system configuration design_count_wrapper
+TRACE::2022-10-19.18:36:34::SCWPlatform::Started preparing the platform 
+TRACE::2022-10-19.18:36:34::SCWSystem::Writing the bif file for system config design_count_wrapper
+TRACE::2022-10-19.18:36:34::SCWSystem::dir created 
+TRACE::2022-10-19.18:36:34::SCWSystem::Writing the bif 
+TRACE::2022-10-19.18:36:34::SCWPlatform::Started writing the spfm file 
+TRACE::2022-10-19.18:36:34::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-10-19.18:36:34::SCWPlatform::Completed generating the platform
+TRACE::2022-10-19.18:36:34::SCWMssOS::Saving the mss changes D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-19.18:36:34::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-19.18:36:34::SCWMssOS::Commit changes completed.
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:34::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:34::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:34::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:34::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:36:34::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:36:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:36:34::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:36:34::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:36:34::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"8a2896293011d781a2cf3e738a1907db",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-10-19.18:36:34::SCWPlatform::updated the xpfm file.
+LOG::2022-10-19.18:40:12::SCWPlatform::Started generating the artifacts platform design_count_wrapper
+TRACE::2022-10-19.18:40:12::SCWPlatform::Sanity checking of platform is completed
+LOG::2022-10-19.18:40:12::SCWPlatform::Started generating the artifacts for system configuration design_count_wrapper
+LOG::2022-10-19.18:40:12::SCWSystem::Checking the domain domain_microblaze_0
+LOG::2022-10-19.18:40:12::SCWSystem::Not a boot domain 
+LOG::2022-10-19.18:40:12::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2022-10-19.18:40:12::SCWDomain::Generating domain artifcats
+TRACE::2022-10-19.18:40:12::SCWMssOS::Generating standalone artifcats
+TRACE::2022-10-19.18:40:12::SCWMssOS:: Copying the user libraries. 
+TRACE::2022-10-19.18:40:12::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:12::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:12::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:12::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:40:12::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:12::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:40:12::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:40:12::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:40:12::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:40:12::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:12::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:40:12::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:12::SCWMssOS::Completed writing the mss file at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2022-10-19.18:40:12::SCWMssOS::Mss edits present, copying mssfile into export location D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:12::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2022-10-19.18:40:12::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2022-10-19.18:40:12::SCWDomain::Building the domain as part of full build :  domain_microblaze_0
+TRACE::2022-10-19.18:40:12::SCWMssOS::doing bsp build ... 
+TRACE::2022-10-19.18:40:12::SCWMssOS::System Command Ran  D: & cd  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp & make 
+TRACE::2022-10-19.18:40:12::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2022-10-19.18:40:12::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-10-19.18:40:12::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-10-19.18:40:12::SCWMssOS::-Wextra"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-10-19.18:40:13::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-10-19.18:40:13::SCWMssOS::-Wextra"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2022-10-19.18:40:13::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall 
+TRACE::2022-10-19.18:40:13::SCWMssOS::-Wextra"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::"Running Make include in microblaze_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "C
+TRACE::2022-10-19.18:40:13::SCWMssOS::OMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections 
+TRACE::2022-10-19.18:40:13::SCWMssOS::-Wall -Wextra"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2022-10-19.18:40:13::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -W
+TRACE::2022-10-19.18:40:13::SCWMssOS::all -Wextra"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2022-10-19.18:40:13::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-10-19.18:40:13::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-10-19.18:40:13::SCWMssOS::xtra"
+
+TRACE::2022-10-19.18:40:14::SCWMssOS::"Compiling bram"
+
+TRACE::2022-10-19.18:40:15::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2022-10-19.18:40:15::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-10-19.18:40:15::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-10-19.18:40:15::SCWMssOS::xtra"
+
+TRACE::2022-10-19.18:40:15::SCWMssOS::"Compiling cpu"
+
+TRACE::2022-10-19.18:40:15::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2022-10-19.18:40:15::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2022-10-19.18:40:15::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -We
+TRACE::2022-10-19.18:40:15::SCWMssOS::xtra"
+
+TRACE::2022-10-19.18:40:15::SCWMssOS::"Compiling gpio"
+
+TRACE::2022-10-19.18:40:16::SCWMssOS::"Running Make libs in microblaze_0/libsrc/standalone_v7_2/src"
+
+TRACE::2022-10-19.18:40:16::SCWMssOS::make -C microblaze_0/libsrc/standalone_v7_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2022-10-19.18:40:16::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wa
+TRACE::2022-10-19.18:40:16::SCWMssOS::ll -Wextra"
+
+TRACE::2022-10-19.18:40:16::SCWMssOS::"Compiling standalone";
+
+TRACE::2022-10-19.18:40:21::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2022-10-19.18:40:21::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2022-10-19.18:40:21::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mxl-soft-mul" "EXTRA_COMPILER_FLAGS=-g -ffunction-sections -fdata-sections -Wall
+TRACE::2022-10-19.18:40:21::SCWMssOS:: -Wextra"
+
+TRACE::2022-10-19.18:40:21::SCWMssOS::"Compiling uartlite"
+
+TRACE::2022-10-19.18:40:22::SCWMssOS::'Finished building libraries'
+
+TRACE::2022-10-19.18:40:22::SCWMssOS::Copying to export directory.
+TRACE::2022-10-19.18:40:22::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2022-10-19.18:40:22::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2022-10-19.18:40:22::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2022-10-19.18:40:22::SCWSystem::Completed Processing the sysconfig design_count_wrapper
+LOG::2022-10-19.18:40:22::SCWPlatform::Completed generating the artifacts for system configuration design_count_wrapper
+TRACE::2022-10-19.18:40:22::SCWPlatform::Started preparing the platform 
+TRACE::2022-10-19.18:40:22::SCWSystem::Writing the bif file for system config design_count_wrapper
+TRACE::2022-10-19.18:40:22::SCWSystem::dir created 
+TRACE::2022-10-19.18:40:22::SCWSystem::Writing the bif 
+TRACE::2022-10-19.18:40:22::SCWPlatform::Started writing the spfm file 
+TRACE::2022-10-19.18:40:22::SCWPlatform::Started writing the xpfm file 
+TRACE::2022-10-19.18:40:22::SCWPlatform::Completed generating the platform
+TRACE::2022-10-19.18:40:22::SCWMssOS::Saving the mss changes D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2022-10-19.18:40:22::SCWMssOS::Completed writemss as part of save.
+TRACE::2022-10-19.18:40:22::SCWMssOS::Commit changes completed.
+TRACE::2022-10-19.18:40:22::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:40:22::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:40:22::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:40:22::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:40:22::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:40:22::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:40:22::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:40:22::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:22::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:40:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:40:22::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:40:22::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:22::SCWWriter::formatted JSON is {
+	"platformName":	"design_count_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_count_wrapper",
+	"platHandOff":	"D:/FPGA/MicroBlaze_Count/design_count_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_count_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_count_wrapper",
+	"systems":	[{
+			"systemName":	"design_count_wrapper",
+			"systemDesc":	"design_count_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_count_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.2",
+					"mssFile":	"",
+					"md5Digest":	"8a2896293011d781a2cf3e738a1907db",
+					"compatibleApp":	"hello_world",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2022-10-19.18:40:22::SCWPlatform::updated the xpfm file.
+TRACE::2022-10-19.18:40:23::SCWPlatform::Trying to open the hw design at D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:23::SCWPlatform::DSA given D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:23::SCWPlatform::DSA absoulate path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:23::SCWPlatform::DSA directory D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw
+TRACE::2022-10-19.18:40:23::SCWPlatform:: Platform Path D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/hw/design_count_wrapper.xsa
+TRACE::2022-10-19.18:40:23::SCWPlatform:: Unique name xilinx:basys3::0.0
+TRACE::2022-10-19.18:40:23::SCWPlatform::Trying to set the existing hwdb with name design_count_wrapper_0
+TRACE::2022-10-19.18:40:23::SCWPlatform::Opened existing hwdb design_count_wrapper_0
+TRACE::2022-10-19.18:40:23::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2022-10-19.18:40:23::SCWMssOS::Checking the sw design at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2022-10-19.18:40:23::SCWMssOS::DEBUG:  swdes dump  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2022-10-19.18:40:23::SCWMssOS::Sw design exists and opened at  D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss

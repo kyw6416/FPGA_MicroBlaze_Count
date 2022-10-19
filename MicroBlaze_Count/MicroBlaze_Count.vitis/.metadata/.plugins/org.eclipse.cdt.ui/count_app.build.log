@@ -1,0 +1,21 @@
+18:41:45 **** Incremental Build of configuration Debug for project count_app ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -ID:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/sw/design_count_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: count_app.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LD:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/sw/design_count_wrapper/domain_microblaze_0/bsplib/lib -mlittle-endian -mcpu=v11.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "count_app.elf"  ./src/hw/Led/Led.o  ./src/hw/Button/Button.o  ./src/main.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: count_app.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size count_app.elf  |tee "count_app.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   4164	    288	   3116	   7568	   1d90	count_app.elf
+'Finished building: count_app.elf.size'
+' '
+
+18:41:47 Build Finished (took 1s.316ms)
+

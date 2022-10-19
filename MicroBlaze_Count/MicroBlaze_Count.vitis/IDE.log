@@ -1,0 +1,88 @@
+18:35:47 INFO  : Launching XSCT server: xsct.bat -n  -interactive D:\FPGA\MicroBlaze_Count\MicroBlaze_Count.vitis\temp_xsdb_launch_script.tcl
+18:35:47 INFO  : Registering command handlers for Vitis TCF services
+18:35:52 INFO  : Platform repository initialization has completed.
+18:35:52 INFO  : XSCT server has started successfully.
+18:35:52 INFO  : plnx-install-location is set to ''
+18:35:52 INFO  : Successfully done setting XSCT server connection channel  
+18:35:52 INFO  : Successfully done query RDI_DATADIR 
+18:35:52 INFO  : Successfully done setting workspace for the tool. 
+18:36:33 INFO  : Result from executing command 'getProjects': design_count_wrapper
+18:36:33 INFO  : Result from executing command 'getPlatforms': 
+18:36:34 INFO  : Platform 'design_count_wrapper' is added to custom repositories.
+18:36:38 INFO  : Platform 'design_count_wrapper' is added to custom repositories.
+18:40:22 INFO  : Result from executing command 'getProjects': design_count_wrapper
+18:40:22 INFO  : Result from executing command 'getPlatforms': design_count_wrapper|D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/design_count_wrapper.xpfm
+18:40:23 INFO  : Checking for BSP changes to sync application flags for project 'count_app'...
+18:40:36 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:40:36 INFO  : Jtag cable 'Digilent Basys3 210183B31B50A' is selected.
+18:40:36 INFO  : 'jtag frequency' command is executed.
+18:40:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Basys3 210183B31B50A" && level==0 && jtag_device_ctx=="jsn-Basys3-210183B31B50A-0362d093-0"}' command is executed.
+18:40:38 INFO  : FPGA configured successfully with bitstream "D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/_ide/bitstream/design_count_wrapper.bit"
+18:40:38 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:38 INFO  : Hardware design and registers information is loaded from 'D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/hw/design_count_wrapper.xsa'.
+18:40:38 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:40:38 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:38 INFO  : System reset is completed.
+18:40:41 INFO  : 'after 3000' command is executed.
+18:40:41 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:42 INFO  : The application 'D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/Debug/count_app.elf' is downloaded to processor 'microblaze_0'.
+18:40:42 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Basys3 210183B31B50A" && level==0 && jtag_device_ctx=="jsn-Basys3-210183B31B50A-0362d093-0"}
+fpga -file D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/_ide/bitstream/design_count_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/hw/design_count_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/Debug/count_app.elf
+----------------End of Script----------------
+
+18:40:42 INFO  : Context for processor 'microblaze_0' is selected.
+18:40:42 INFO  : 'con' command is executed.
+18:40:42 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:40:42 INFO  : Launch script is exported to file 'D:\FPGA\MicroBlaze_Count\MicroBlaze_Count.vitis\.sdk\launch_scripts\single_application_debug\systemdebugger_count_app_system_standalone.tcl'
+18:41:45 INFO  : Checking for BSP changes to sync application flags for project 'count_app'...
+18:41:53 INFO  : Disconnected from the channel tcfchan#2.
+18:41:53 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:41:53 INFO  : Jtag cable 'Digilent Basys3 210183B31B50A' is selected.
+18:41:53 INFO  : 'jtag frequency' command is executed.
+18:41:53 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Basys3 210183B31B50A" && level==0 && jtag_device_ctx=="jsn-Basys3-210183B31B50A-0362d093-0"}' command is executed.
+18:41:54 INFO  : FPGA configured successfully with bitstream "D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/_ide/bitstream/design_count_wrapper.bit"
+18:41:54 INFO  : Context for processor 'microblaze_0' is selected.
+18:41:54 INFO  : Hardware design and registers information is loaded from 'D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/hw/design_count_wrapper.xsa'.
+18:41:54 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+18:41:54 INFO  : Context for processor 'microblaze_0' is selected.
+18:41:54 INFO  : System reset is completed.
+18:41:57 INFO  : 'after 3000' command is executed.
+18:41:58 INFO  : Context for processor 'microblaze_0' is selected.
+18:41:58 INFO  : The application 'D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/Debug/count_app.elf' is downloaded to processor 'microblaze_0'.
+18:41:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Basys3 210183B31B50A" && level==0 && jtag_device_ctx=="jsn-Basys3-210183B31B50A-0362d093-0"}
+fpga -file D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/_ide/bitstream/design_count_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/design_count_wrapper/export/design_count_wrapper/hw/design_count_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow D:/FPGA/MicroBlaze_Count/MicroBlaze_Count.vitis/count_app/Debug/count_app.elf
+----------------End of Script----------------
+
+18:41:58 INFO  : Context for processor 'microblaze_0' is selected.
+18:41:58 INFO  : 'con' command is executed.
+18:41:58 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+18:41:58 INFO  : Launch script is exported to file 'D:\FPGA\MicroBlaze_Count\MicroBlaze_Count.vitis\.sdk\launch_scripts\single_application_debug\systemdebugger_count_app_system_standalone.tcl'
+18:48:15 INFO  : Disconnected from the channel tcfchan#3.
